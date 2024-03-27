@@ -52,10 +52,6 @@ button:hover {
     background-color: #508f59;
 }
 
-button:active {
-    background-color: #3f7147;
-}
-
 .colorBox {
     width: 100px;
     height: 100px;
@@ -64,3 +60,11 @@ button:active {
     margin-top: 15px;
 }
 
+.footer {
+    display: flex;
+    justify-content: center;
+    background-color: #7fd496;
+    margin-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #242424ae;
+}
